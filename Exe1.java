@@ -1,3 +1,4 @@
+//Enunciado 1
 public class Exe1 {
     static int count = 0;
     static int findPattern(String s1, String s2){
